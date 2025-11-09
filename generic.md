@@ -5,9 +5,8 @@ title: Work Experience
 ---
 
 <h2>Charge Incubator</h2>
-<h3>Program Assistant</h3>
 <h3 style="display: flex; justify-content: space-between;">
-<span>Program Assistant</span><span>Oslo, Norway</span>
+<span>Program Assistant<em>(Contract)<em></span><span><em>Oslo, Norway<em> Aug 2025 - Current</span>
 </h3>
 <ul>
   <li>Supported the LEAP Program through <strong>end-to-end coordination</strong> — including program planning, competitor research, participant recruitment, and execution logistics.</li>
