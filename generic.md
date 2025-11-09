@@ -4,8 +4,8 @@ title: Work Experience
 # image: assets/images/pic11.jpg
 ---
 
-<h2> Charge Incubator </h2>
-<h3 style="display: flex; justify-content: space-between;">
+<h2 style="margin-bottom: 4px> Charge Incubator </h2>
+<h3 style="display: flex; justify-content: space-between; margin-top: 0;">
   <span>
   <span style="font-size: 22px;">Program Assistant</span>
   <em>&nbsp;(Contract)</em>
@@ -18,7 +18,7 @@ title: Work Experience
 
 <ul>
   <li>Supported the LEAP Program through <strong>end-to-end coordination</strong> — including program planning, competitor research, participant recruitment, and execution logistics.</li>
-  <li>Redesigned and managed the Charge website using Squarespace CMS, represented the organization at key events, and guided start-ups in enhancing their digital presence and branding.</li>
+  <li>Redesigned and managed the Charge <strong>website using Squarespace CMS<strong>, represented the organization at key events, and guided start-ups in enhancing their <strong>digital presence and branding.</strong></li>
 </ul>
 
 <hr class="major" />
