@@ -5,8 +5,8 @@ title: Work Experience
 ---
 
 <h2> Charge Incubator </h2>
-<h3 style="display: flex; justify-content: space-between; font-size: 21px;">
-  <span>Program Assistant<em>&nbsp;(Contract)</em></span>
+<h3 style="display: flex; justify-content: space-between;">
+  <span style="font-size: 30px;">Program Assistant<em>&nbsp;(Contract)</em></span>
   <span><em>Oslo, Norway&nbsp;</em>Aug 2025 - Current</span>
 </h3>
 
