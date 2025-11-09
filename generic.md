@@ -4,9 +4,10 @@ title: Work Experience
 # image: assets/images/pic11.jpg
 ---
 
-<h2>Charge Incubator</h2>
-<h3 style="display: flex; justify-content: space-between;">
-<span><strong>Program Assistant</strong><em>&nbsp;(Contract)</em></span><span><em>Oslo, Norway&nbsp;</em> <strong>Aug 2025 - Current</strong></span>
+<h2 style="font-weight: 600;">Charge Incubator</h2>
+<h3 style="display: flex; justify-content: space-between; font-weight: 700;">
+  <span><strong>Program Assistant</strong><em>&nbsp;(Contract)</em></span>
+  <span><em>Oslo, Norway&nbsp;</em> <strong>Aug 2025 - Current</strong></span>
 </h3>
 
 <ul>
