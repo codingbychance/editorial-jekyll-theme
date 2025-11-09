@@ -11,7 +11,7 @@ title: Work Experience
   <em>&nbsp;(Contract)</em>
   </span>
   <span>
-  <em>Oslo, Norway &nbsp;</em>
+  <em>Oslo, Norway </em>
   <span>&nbsp;Aug 2025 - Current</span>
   </span>
 </h3>
