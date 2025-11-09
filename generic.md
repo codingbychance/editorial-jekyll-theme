@@ -4,8 +4,8 @@ title: Work Experience
 # image: assets/images/pic11.jpg
 ---
 
-<h2 style="margin-bottom: 4px> Charge Incubator </h2>
-<h3 style="display: flex; justify-content: space-between; margin-top: 0;">
+<h2 style="margin-bottom: 4px"> Charge Incubator </h2>
+<h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
   <span>
   <span style="font-size: 22px;">Program Assistant</span>
   <em>&nbsp;(Contract)</em>
