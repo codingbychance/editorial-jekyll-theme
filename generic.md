@@ -12,13 +12,13 @@ title: Work Experience
   </span>
   <span>
   <em>Oslo, Norway &nbsp;</em>
-  <span style="font-size: 22px;">&nbsp;Aug 2025 - Current</span>
+  <span>&nbsp;Aug 2025 - Current</span>
   </span>
 </h3>
 
 <ul>
   <li>Supported the LEAP Program through <strong>end-to-end coordination</strong> — including program planning, competitor research, participant recruitment, and execution logistics.</li>
-  <li>Redesigned and managed the Charge <strong>website using Squarespace CMS<strong>, represented the organization at key events, and guided start-ups in enhancing their <strong>digital presence and branding.</strong></li>
+  <li>Redesigned and managed the Charge <strong>website using Squarespace CMS</strong>, represented the organization at key events, and guided start-ups in enhancing their <strong>digital presence and branding.</strong></li>
 </ul>
 
 <hr class="major" />
