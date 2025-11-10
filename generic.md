@@ -119,7 +119,7 @@ title: Work Experience
 </ul>
 
 <hr class="major"/>
-<style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
+<style> .major {border: 0; height: 2px; background: #6d6d6dff; margin: 20px 0; } </style>
 
 <h2 style="margin-bottom: 4px"> Godrej & Boyce </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
