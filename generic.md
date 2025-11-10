@@ -41,8 +41,7 @@ title: Work Experience
   <li>Collaborated with team members to consistently provide outstanding customer service throughout the shopping journey.</li>
 </ul>
 
-<hr class="major" style="border: 0; height: 2px; background: #474747ff; margin-top: 20px; margin-bottom: 50px;"/>
-<!-- <style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style> -->
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 10px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> Chaskka </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
