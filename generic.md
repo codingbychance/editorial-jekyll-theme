@@ -44,7 +44,7 @@ title: Work Experience
 <hr class="major"/>
 <style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
 
-<h2 style="margin-bottom: 4px"> Chaskka </h2>
+<h2 style="margin-bottom: 2px"> Chaskka </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
   <span>
   <span style="font-size: 22px;">Social Media Marketing Strategist</span>
@@ -64,8 +64,6 @@ title: Work Experience
 
 <hr class="major"/>
 <style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
-
-<hr style="margin: 2px 0;">
 
 <h2 style="margin-bottom: 4px"> ITC </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
