@@ -20,8 +20,7 @@ title: Work Experience
   <li>Redesigned and managed the Charge <strong>website using Squarespace CMS</strong>, represented the organization at key events, and guided start-ups in enhancing their <strong>digital presence and branding.</strong></li>
 </ul>
 
-<hr class="major"/>
-<style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> H&M </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
@@ -41,7 +40,7 @@ title: Work Experience
   <li>Collaborated with team members to consistently provide outstanding customer service throughout the shopping journey.</li>
 </ul>
 
-<hr class="major" style="height: 2px; background: #797878ff; margin-top: 10px; margin-bottom: 30px;"/>
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> Chaskka </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
@@ -61,8 +60,7 @@ title: Work Experience
   <li>Managed <strong>Instagram, Facebook, and TikTok</strong>, tripling posting frequency, doubling reach, and executing strategic social media campaigns.</li>
 </ul>
 
-<hr class="major"/>
-<style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> ITC </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
@@ -97,8 +95,7 @@ title: Work Experience
 <li>Engaged with <strong>200+ potential consumers</strong> to assess the brand’s <strong>communication effectiveness and value proposition</strong>.</li>
 </ul>
 
-<hr class="major"/>
-<style> .major {border: 0; height: 2px; background: #474747ff; margin: 40px 0; } </style>
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> Reminiscent Interior </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
@@ -117,8 +114,7 @@ title: Work Experience
 <li>Initiated <strong>lead generation strategies</strong> through society activations and builder partnerships, effectively <strong>reducing customer acquisition costs (CAC)</strong>.</li>
 </ul>
 
-<hr class="major"/>
-<style> .major {border: 0; height: 2px; background: #6d6d6dff; margin: 40px 0; } </style>
+<hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;"/>
 
 <h2 style="margin-bottom: 4px"> Godrej & Boyce </h2>
 <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
