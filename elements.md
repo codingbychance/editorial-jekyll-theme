@@ -3,8 +3,8 @@ layout: page
 title: Projects
 ---
 
-<h2>Marketing Automation</h2>
-<p>Email flow set up for an Ed-tech platform; On-boarding, newsletter, abandon cart reminder</p>
+<h2 margin-bottom: 2px>Marketing Automation</h2>
+<p margin-top: 2px>Email flow set up for an Ed-tech platform; On-boarding, newsletter, abandon cart reminder</p>
 
 <hr class="major" style="height: 2px; background: #797878ff; margin-top: 5px; margin-bottom: 15px;"/>
 
