@@ -6,10 +6,10 @@ description: My Portfolio Website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: Ragnhilds vei 1C
-city: Lorenskog
+street_address: Feltspatveien 45
+city: Oslo
 state: Oslo
-zip_code: 1473
+zip_code: 1155
 country: Norway
 phone: +47 465 401 09
 
