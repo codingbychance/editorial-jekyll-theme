@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Work Experience
-# image: assets/images/pic11.jpg
 ---
+
+<style>
+  a {
+    color: inherit;           /* same color as surrounding text */
+    text-decoration: none;    /* removes underline */
+  }
+</style>
 
 <style>
   .accordion {
