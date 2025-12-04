@@ -30,7 +30,7 @@ title: Certifications
 
   .accordion.active .accordion-arrow {transform: rotate(90deg);}
 
-  .accordion span.accordion-arrow {margin-left: 8px;}
+  .accordion span.accordion-arrow {margin-left: 200px;}
 
 
   .panel {display: none; margin-bottom: 5px;}
