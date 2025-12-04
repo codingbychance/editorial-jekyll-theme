@@ -21,7 +21,7 @@ title: Certifications
     justify-content: space-between;
     align-items: center;
     width: 100%; 
-    gap: 10px; 
+    gap: 0; 
   }
 
   .accordion:hover {opacity: 0.7;}
@@ -29,6 +29,9 @@ title: Certifications
   .accordion-arrow {transition: transform 0.3s ease; font-size: 18px;}
 
   .accordion.active .accordion-arrow {transform: rotate(90deg);}
+
+  .accordion span.accordion-arrow {margin-left: 8px;}
+
 
   .panel {display: none; margin-bottom: 5px;}
 
@@ -43,25 +46,25 @@ title: Certifications
 <div class="panel">
 <p>
   Atlassian Agile Project Management Professional Certificate —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Agile Foundations —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Agile Project Management with Jira Cloud: 2 Lean and Agile Processes —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Agile Project Management with Jira Cloud: 3 Advanced Topics —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Mistakes to Avoid in Agile Project Management —
-  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a><br>
 
   Scrum: The Basics —
-  <a href="LINK" target="_blank">Check the certificate here.</a>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a>
 </p>
 </div>
 
@@ -74,7 +77,7 @@ title: Certifications
 <div class="panel">
 <p>
   Fundamentals of Visualization with Tableau —
-  <a href="LINK" target="_blank">Check the certificate here.</a>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a>
 </p>
 </div>
 
@@ -87,7 +90,7 @@ title: Certifications
 <div class="panel">
  <p>
   Introduction to CRM with HubSpot —
-  <a href="LINK" target="_blank">Check the certificate here.</a>
+  <a href="LINK" target="_blank"><em>Check the certificate here.</em></a>
 </p>
 </div>
 
