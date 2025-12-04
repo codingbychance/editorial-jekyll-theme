@@ -20,7 +20,7 @@ title: Certifications
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    gap: 6px;
+    gap: 40px;
   }
 
   .accordion:hover {opacity: 0.7;}
@@ -29,7 +29,9 @@ title: Certifications
 
   .accordion.active .accordion-arrow {transform: rotate(90deg);}
 
-  .panel {display: none; margin: 5px 0 15px 0;}
+  .panel {display: none; margin-bottom: 5px;}
+
+   .panel p {line-height: 1.6;}
 </style>
 
 <h2 class="accordion">
@@ -61,9 +63,6 @@ title: Certifications
   Scrum: The Basics —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
-
-    </a>
-  </p>
 </div>
 
 <script>
