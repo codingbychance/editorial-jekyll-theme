@@ -39,33 +39,29 @@ title: Certifications
 
 <div class="panel">
   <p>
-    Atlassian Agile Project Management Professional Certificate —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Agile Foundations —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Agile Project Management with Jira Cloud: 2 Lean and Agile Processes —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Agile Project Management with Jira Cloud: 3 Advanced Topics —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Mistakes to Avoid in Agile Project Management —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
-    </a>
-    Scrum: The Basics —
-    <a href="https://www.linkedin.com/learning/certificates/9b78b038e6a58a7eb913a65f79c8866f62861ef0ef1e1b97dc6045de8ce1e126?trk=share_certificate" target="_blank">
-      Check the certificate here.
+    <p>
+  Atlassian Agile Project Management Professional Certificate —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Agile Foundations —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Agile Project Management with Jira Cloud: 2 Lean and Agile Processes —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Agile Project Management with Jira Cloud: 3 Advanced Topics —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Mistakes to Avoid in Agile Project Management —
+  <a href="LINK" target="_blank">Check the certificate here.</a><br>
+
+  Scrum: The Basics —
+  <a href="LINK" target="_blank">Check the certificate here.</a>
+</p>
+
     </a>
   </p>
 </div>
