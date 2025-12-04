@@ -31,7 +31,7 @@ title: Certifications
 
   .panel {display: none; margin-bottom: 5px;}
 
-   .panel p {line-height: 1.6;}
+   .panel p{line-height: 5;}
 </style>
 
 <h2 class="accordion">
@@ -63,7 +63,7 @@ title: Certifications
   Scrum: The Basics —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
-</div>
+
 
 <script>
   const acc = document.querySelector(".accordion");
