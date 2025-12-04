@@ -18,9 +18,10 @@ title: Certifications
     font-size: 24px;
     font-weight: bold;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
-    gap: 400px;
+    width: 100%; 
+    gap: 10px; 
   }
 
   .accordion:hover {opacity: 0.7;}
