@@ -62,7 +62,7 @@ title: Certifications
   Scrum: The Basics —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
-<div>
+</div>
 
 
 <h2 class="accordion">
@@ -90,16 +90,33 @@ title: Certifications
 </p>
 </div>
 
-
 <script>
-  const accordions = document.querySelectorAll(".accordion");
+const accordions = document.querySelectorAll(".accordion");
 
-  accordions.forEach((accordion) => {
-    accordion.addEventListener("click", function () {
-      this.classList.toggle("active");
+accordions.forEach((accordion) => {
+  accordion.addEventListener("click", function () {
 
-      const panel = this.nextElementSibling;
-      panel.style.display = panel.style.display === "block" ? "none" : "block";
+    // Close all other accordions
+    accordions.forEach((item) => {
+      if (item !== this) {
+        item.classList.remove("active");
+        item.nextElementSibling.style.display = "none";
+      }
     });
+
+    // Toggle the clicked one
+    this.classList.toggle("active");
+
+    const panel = this.nextElementSibling;
+    panel.style.display =
+      panel.style.display === "block" ? "none" : "block";
   });
+});
 </script>
+
+
+
+
+
+
+
