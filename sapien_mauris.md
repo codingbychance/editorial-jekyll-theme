@@ -31,7 +31,7 @@ title: Certifications
 
   .panel {display: none; margin-bottom: 5px;}
 
-   .panel p{line-height: 2;}
+  .panel p{line-height: 2.5;}
 </style>
 
 <h2 class="accordion">
@@ -63,7 +63,15 @@ title: Certifications
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
 
+<script>
+  const acc = document.querySelector(".accordion");
+  const panel = document.querySelector(".panel");
 
+  acc.addEventListener("click", function () {
+    this.classList.toggle("active");
+    panel.style.display = panel.style.display === "block" ? "none" : "block";
+  });
+</script>
 
 <h2 class="accordion">
   Data Visualization
@@ -76,7 +84,15 @@ title: Certifications
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
 
+<script>
+  const acc = document.querySelector(".accordion");
+  const panel = document.querySelector(".panel");
 
+  acc.addEventListener("click", function () {
+    this.classList.toggle("active");
+    panel.style.display = panel.style.display === "block" ? "none" : "block";
+  });
+</script>
 
 <h2 class="accordion">
   MarTech & CRM
