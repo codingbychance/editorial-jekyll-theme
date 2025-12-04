@@ -62,16 +62,8 @@ title: Certifications
   Scrum: The Basics —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
+<div>
 
-<script>
-  const acc = document.querySelector(".accordion");
-  const panel = document.querySelector(".panel");
-
-  acc.addEventListener("click", function () {
-    this.classList.toggle("active");
-    panel.style.display = panel.style.display === "block" ? "none" : "block";
-  });
-</script>
 
 <h2 class="accordion">
   Data Visualization
@@ -83,16 +75,8 @@ title: Certifications
   Fundamentals of Visualization with Tableau —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
+</div>
 
-<script>
-  const acc = document.querySelector(".accordion");
-  const panel = document.querySelector(".panel");
-
-  acc.addEventListener("click", function () {
-    this.classList.toggle("active");
-    panel.style.display = panel.style.display === "block" ? "none" : "block";
-  });
-</script>
 
 <h2 class="accordion">
   MarTech & CRM
@@ -104,14 +88,18 @@ title: Certifications
   Introduction to CRM with HubSpot —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
+</div>
 
 
 <script>
-  const acc = document.querySelector(".accordion");
-  const panel = document.querySelector(".panel");
+  const accordions = document.querySelectorAll(".accordion");
 
-  acc.addEventListener("click", function () {
-    this.classList.toggle("active");
-    panel.style.display = panel.style.display === "block" ? "none" : "block";
+  accordions.forEach((accordion) => {
+    accordion.addEventListener("click", function () {
+      this.classList.toggle("active");
+
+      const panel = this.nextElementSibling;
+      panel.style.display = panel.style.display === "block" ? "none" : "block";
+    });
   });
 </script>
