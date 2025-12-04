@@ -20,7 +20,7 @@ title: Certifications
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    gap: 40px;
+    gap: 400px;
   }
 
   .accordion:hover {opacity: 0.7;}
@@ -31,7 +31,7 @@ title: Certifications
 
   .panel {display: none; margin-bottom: 5px;}
 
-   .panel p{line-height: 5;}
+   .panel p{line-height: 2;}
 </style>
 
 <h2 class="accordion">
@@ -40,8 +40,7 @@ title: Certifications
 </h2>
 
 <div class="panel">
-  <p>
-    <p>
+<p>
   Atlassian Agile Project Management Professional Certificate —
   <a href="LINK" target="_blank">Check the certificate here.</a><br>
 
@@ -61,6 +60,32 @@ title: Certifications
   <a href="LINK" target="_blank">Check the certificate here.</a><br>
 
   Scrum: The Basics —
+  <a href="LINK" target="_blank">Check the certificate here.</a>
+</p>
+
+
+
+<h2 class="accordion">
+  Data Visualization
+  <span class="accordion-arrow">▶</span>
+</h2>
+
+<div class="panel">
+<p>
+  Fundamentals of Visualization with Tableau —
+  <a href="LINK" target="_blank">Check the certificate here.</a>
+</p>
+
+
+
+<h2 class="accordion">
+  MarTech & CRM
+  <span class="accordion-arrow">▶</span>
+</h2>
+
+<div class="panel">
+ <p>
+  Introduction to CRM with HubSpot —
   <a href="LINK" target="_blank">Check the certificate here.</a>
 </p>
 
