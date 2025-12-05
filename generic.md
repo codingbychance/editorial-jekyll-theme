@@ -155,6 +155,81 @@ title: Work Experience
   <span class="accordion-arrow">▶</span>
 </h2>
 <div class="panel">
-  <h3 style= "display: flex; justify-content: space-b
+  <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
+    <span>
+      <span style="font-size: 22px;">Marketing Strategist</span>
+      <em>&nbsp;(Pursued MBA thereafter)</em>
+    </span>
+    <span>
+      <em>Bangalore, India </em>
+      <span>&nbsp;Sep 2021 - Feb 2022</span>
+    </span>
+  </h3>
+  <ul>
+    <li>Created and optimized content across <strong>10+ platforms</strong>, including <strong>Instagram, Facebook, and Google Ads</strong>, reaching <strong>100K+ users</strong> with a budget of <strong>INR 120K</strong>.</li>  
+    <li><strong>Redesigned the website</strong>, improving interface efficiency by <strong>35%</strong> and enhancing overall <strong>customer experience by 60%</strong>.</li>  
+    <li>Initiated <strong>lead generation strategies</strong> through society activations and builder partnerships, effectively <strong>reducing customer acquisition costs (CAC)</strong>.</li>
+  </ul>
+  <hr class="major" style="height: 2px; background: #797878ff; margin-top: 1px; margin-bottom: 30px;">
+</div>
+
+<!-- Godrej & Boyce -->
+<h2 class="accordion">
+  Godrej & Boyce
+  <span class="accordion-arrow">▶</span>
+</h2>
+<div class="panel">
+  <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
+    <span>
+      <span style="font-size: 22px;">Consultant</span>
+      <em>&nbsp;(Contract)</em>
+    </span>
+    <span>
+      <em>Mumbai, India </em>
+      <span>&nbsp;Dec 2020 - Feb 2021</span>
+    </span>
+  </h3>
+  <ul>
+    <li>Conducted <strong>6+ weeks of training</strong>, evaluated performance, and prepared reports for <strong>15 new trainees</strong>.</li> 
+    <li>Pioneered a <strong>toolkit for induction</strong>, standardizing <strong>20+ training sessions</strong> and <strong>25+ assignments</strong> across <strong>4 geographical locations</strong>.</li>
+  </ul>
+
+  <h3 style= "display: flex; justify-content: space-between; margin-top: 0;">
+    <span>
+      <span style="font-size: 22px;">Assistant Manager in Marketing</span>
+    </span>
+    <span>
+      <em>Mumbai, India </em>
+      <span>&nbsp;Jun 2019 - Nov 2020</span>
+    </span>
+  </h3>
+  <ul>
+    <li>Acted as a liaison between <strong>design, execution, sales, and marketing teams</strong>, representing <strong>30+ designers</strong>.</li> 
+    <li>Planned and executed <strong>7 society activations across 4 cities</strong>, generating <strong>500+ client leads</strong> and <strong>INR 70M+ in revenue</strong>.</li> 
+    <li>Analyzed <strong>lost order data</strong>, improved <strong>client conversion by 50%</strong> and achieved <strong>96% customer satisfaction</strong>.</li> 
+    <li>Developed <strong>design proposals for B2B and B2C</strong>, generating <strong>INR 50M+ revenue</strong> and <strong>95% client satisfaction</strong>.</li> 
+    <li>Assisted in planning the <strong>Annual Business Plan</strong>, achieving <strong>2.5X revenue increase to INR 250M</strong> and <strong>80% accuracy in business forecasting</strong>.</li> 
+    <li>Conducted <strong>industry and user research for new product launches (NPI)</strong>, enhancing <strong>product-market fit</strong> and contributing to <strong>15+ NPIs</strong>.</li>
+  </ul>
+</div>
+
+<!-- Accordion Script -->
+<script>
+  const accordions = document.querySelectorAll(".accordion");
+
+  // Mark all as active (since all should start open)
+  accordions.forEach(acc => acc.classList.add("active"));
+
+  accordions.forEach(acc => {
+    acc.addEventListener("click", function () {
+      const panel = this.nextElementSibling;
+
+      // Toggle ONLY this panel
+      panel.classList.toggle("collapsed");
+      this.classList.toggle("active");
+    });
+  });
+</script>
+
 
 
